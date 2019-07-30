@@ -7,5 +7,8 @@
 .idea/vcs.xml
 .idea/workspace.xml
 Data/.DS_Store
-
+*.csv
+*.ipynb
+*.xlsx
+*.md
 .ipynb_checkpoints/SportsBetting-checkpoint.ipynb
